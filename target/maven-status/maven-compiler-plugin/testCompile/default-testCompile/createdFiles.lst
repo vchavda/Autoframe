@@ -1,3 +1,5 @@
-autoSteps\AutoSteps.class
+com\cucumber\AutoFrameRunner.class
 autoPackage\SerenityTest.class
+autoSteps\AutoSteps.class
 autoPackage\DataDrivenTest.class
+com\cucumber\steps\AutoCucumberSteps.class

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="autoPackage.SerenityTest" time="33.849" tests="7" errors="2" skipped="3" failures="1">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="autoPackage.SerenityTest" time="30.393" tests="7" errors="2" skipped="3" failures="1">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_131\jre\bin"/>
@@ -26,9 +26,9 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 7"/>
-    <property name="classworlds.conf" value="C:\dev-install\workspaces\automation-coop\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf3393297729869655097.tmp"/>
+    <property name="classworlds.conf" value="C:\dev-install\workspaces\automation-coop\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf9148451786013799238.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_131\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre1.8.0_131/bin/server;C:/Program Files/Java/jre1.8.0_131/bin;C:/Program Files/Java/jre1.8.0_131/lib/amd64;C:\Program Files (x86)\RSA SecurID Token Common;C:\Program Files\RSA SecurID Token Common;C:\ProgramData\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.7.0_79;%JAVA_HOME\bin;C:\Program Files\TortoiseSVN\bin;c:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\DTS\Binn\;c:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;c:\Program Files (x86)\Microsoft SQL Server\100\DTS\Binn\;C:\Maven\apache-maven-3.3.9\bin;C:\Vijay\Batch;C:\Program Files (x86)\Brackets\command;C:\Program Files\Git\cmd;c:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;c:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;c:\Program Files\Microsoft SQL Server\110\Tools\Binn\;c:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn\;C:\Users\IBM_ADMIN\AppData\Local\atom\bin;%JAVA_HOME\bin%;CATALINA_HOME=C:\Tomcat9\apache-tomcat-9.0.12-windows-x64\apache-tomcat-9.0.12\lib;C:\Users\IBM_ADMIN\AppData\Local\Box\Box Edit\;C:\dev-install\eclipse\mars\eclipse;;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_131\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre1.8.0_131/bin/server;C:/Program Files/Java/jre1.8.0_131/bin;C:/Program Files/Java/jre1.8.0_131/lib/amd64;C:\Program Files (x86)\RSA SecurID Token Common;C:\Program Files\RSA SecurID Token Common;C:\ProgramData\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.7.0_79;%JAVA_HOME\bin;C:\Program Files\TortoiseSVN\bin;c:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\DTS\Binn\;c:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;c:\Program Files (x86)\Microsoft SQL Server\100\DTS\Binn\;C:\Maven\apache-maven-3.3.9\bin;C:\Vijay\Batch;C:\Program Files (x86)\Brackets\command;c:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;c:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;c:\Program Files\Microsoft SQL Server\110\Tools\Binn\;c:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files\Git\cmd;C:\Users\IBM_ADMIN\AppData\Local\atom\bin;%JAVA_HOME\bin%;CATALINA_HOME=C:\Tomcat9\apache-tomcat-9.0.12-windows-x64\apache-tomcat-9.0.12\lib;C:\Users\IBM_ADMIN\AppData\Local\Box\Box Edit\;C:\dev-install\eclipse\mars\eclipse;;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="52.0"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -60,11 +60,11 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="test1" classname="autoPackage.SerenityTest" time="3.228">
+  <testcase name="test1" classname="autoPackage.SerenityTest" time="3.179">
     <failure type="java.lang.AssertionError">java.lang.AssertionError
 	at autoPackage.SerenityTest.test1(SerenityTest.java:37)
 </failure>
-    <system-err><![CDATA[890 [main] INFO net.thucydides.core.steps.ConsoleLoggingListener - &amp#27;[96m&amp#27;[36m
+    <system-err><![CDATA[770 [main] INFO net.thucydides.core.steps.ConsoleLoggingListener - &amp#27;[96m&amp#27;[36m
 
 -------------------------------------------------------------------------------------
      _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
@@ -81,8 +81,8 @@
  Learn Serenity BDD online at http://serenity-dojo.com                               
 -------------------------------------------------------------------------------------
 &amp#27;[0m&amp#27;[0m
-2028 [main] INFO net.thucydides.core.steps.ConsoleLoggingListener - Test Suite Started: Serenity test
-5239 [main] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+1655 [main] INFO net.thucydides.core.steps.ConsoleLoggingListener - Test Suite Started: Serenity test
+4815 [main] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
  _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
 |_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
   | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
@@ -92,12 +92,12 @@
 
 TEST STARTED: test1
 -------------------------------------------------------------------
-5239 [main] INFO net.serenitybdd.core.Serenity - TEST NUMBER: 1
+4815 [main] INFO net.serenitybdd.core.Serenity - TEST NUMBER: 1
 ]]></system-err>
   </testcase>
   <testcase name="test2" classname="autoPackage.SerenityTest" time="0">
     <skipped/>
-    <system-err><![CDATA[7033 [main] ERROR net.thucydides.core.steps.ConsoleLoggingListener - &amp#27;[91m
+    <system-err><![CDATA[7166 [main] ERROR net.thucydides.core.steps.ConsoleLoggingListener - &amp#27;[91m
            __  _____ _____ ____ _____   _____ _    ___ _     _____ ____  
   _       / / |_   _| ____/ ___|_   _| |  ___/ \  |_ _| |   | ____|  _ \ 
  (_)_____| |    | | |  _| \___ \ | |   | |_ / _ \  | || |   |  _| | | | |
@@ -107,8 +107,8 @@ TEST STARTED: test1
 
 TEST FAILED: Test1
 --------------------------------------------------------------------------&amp#27;[0m
-7038 [main] ERROR net.thucydides.core.steps.ConsoleLoggingListener - 
-8791 [main] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+7170 [main] ERROR net.thucydides.core.steps.ConsoleLoggingListener - 
+8853 [main] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
  _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
 |_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
   | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
@@ -118,9 +118,9 @@ TEST FAILED: Test1
 
 TEST STARTED: test2
 -------------------------------------------------------------------
-8793 [main] INFO net.serenitybdd.core.Serenity - TEST NUMBER: 2
-8793 [main] INFO net.thucydides.core.steps.ConsoleLoggingListener - &amp#27;[96mTEST PENDING&amp#27;[0m
-8795 [main] INFO net.thucydides.core.steps.ConsoleLoggingListener - &amp#27;[96m
+8853 [main] INFO net.serenitybdd.core.Serenity - TEST NUMBER: 2
+8854 [main] INFO net.thucydides.core.steps.ConsoleLoggingListener - &amp#27;[96mTEST PENDING&amp#27;[0m
+8857 [main] INFO net.thucydides.core.steps.ConsoleLoggingListener - &amp#27;[96m
           __  _____ _____ ____ _____   ____  _____ _   _ ____ ___ _   _  ____ 
  _       / / |_   _| ____/ ___|_   _| |  _ \| ____| \ | |  _ \_ _| \ | |/ ___|
 (_)____ / /    | | |  _| \___ \ | |   | |_) |  _| |  \| | | | | ||  \| | |  _ 
@@ -134,7 +134,7 @@ TEST PENDING: Test2
   </testcase>
   <testcase name="test3" classname="autoPackage.SerenityTest" time="0">
     <skipped/>
-    <system-err><![CDATA[10139 [main] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+    <system-err><![CDATA[10053 [main] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
  _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
 |_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
   | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
@@ -144,9 +144,9 @@ TEST PENDING: Test2
 
 TEST STARTED: test3
 -------------------------------------------------------------------
-10139 [main] INFO net.serenitybdd.core.Serenity - TEST NUMBER: 3
-10141 [main] INFO net.thucydides.core.steps.ConsoleLoggingListener - &amp#27;[33mTEST IGNORED&amp#27;[0m
-10143 [main] INFO net.thucydides.core.steps.ConsoleLoggingListener - &amp#27;[33m
+10053 [main] INFO net.serenitybdd.core.Serenity - TEST NUMBER: 3
+10054 [main] INFO net.thucydides.core.steps.ConsoleLoggingListener - &amp#27;[33mTEST IGNORED&amp#27;[0m
+10055 [main] INFO net.thucydides.core.steps.ConsoleLoggingListener - &amp#27;[33m
             __  _____ _____ ____ _____   ____  _  _____ ____  ____  _____ ____  
   _        / / |_   _| ____/ ___|_   _| / ___|| |/ /_ _|  _ \|  _ \| ____|  _ \ 
  (_)_____ / /    | | |  _| \___ \ | |   \___ \| ' / | || |_) | |_) |  _| | | | |
@@ -158,11 +158,11 @@ TEST SKIPPED: Test3
 ---------------------------------------------------------------------------------&amp#27;[0m
 ]]></system-err>
   </testcase>
-  <testcase name="test4" classname="autoPackage.SerenityTest" time="1.728">
+  <testcase name="test4" classname="autoPackage.SerenityTest" time="1.687">
     <error message="/ by zero" type="java.lang.ArithmeticException">java.lang.ArithmeticException: / by zero
-	at autoPackage.SerenityTest.test4(SerenityTest.java:56)
+	at autoPackage.SerenityTest.test4(SerenityTest.java:57)
 </error>
-    <system-err><![CDATA[11861 [main] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+    <system-err><![CDATA[11745 [main] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
  _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
 |_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
   | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
@@ -172,14 +172,14 @@ TEST SKIPPED: Test3
 
 TEST STARTED: test4
 -------------------------------------------------------------------
-11862 [main] INFO net.serenitybdd.core.Serenity - TEST NUMBER: 4
+11745 [main] INFO net.serenitybdd.core.Serenity - TEST NUMBER: 4
 ]]></system-err>
   </testcase>
-  <testcase name="test5" classname="autoPackage.SerenityTest" time="1.603">
+  <testcase name="test5" classname="autoPackage.SerenityTest" time="1.252">
     <error message="E:\dummy.txt (The system cannot find the path specified)" type="java.io.FileNotFoundException">java.io.FileNotFoundException: E:\dummy.txt (The system cannot find the path specified)
-	at autoPackage.SerenityTest.test5(SerenityTest.java:66)
+	at autoPackage.SerenityTest.test5(SerenityTest.java:67)
 </error>
-    <system-err><![CDATA[11886 [main] ERROR net.thucydides.core.steps.ConsoleLoggingListener - &amp#27;[91m
+    <system-err><![CDATA[11755 [main] ERROR net.thucydides.core.steps.ConsoleLoggingListener - &amp#27;[91m
            __  _____ _____ ____ _____   _____ _    ___ _     _____ ____  
   _       / / |_   _| ____/ ___|_   _| |  ___/ \  |_ _| |   | ____|  _ \ 
  (_)_____| |    | | |  _| \___ \ | |   | |_ / _ \  | || |   |  _| | | | |
@@ -189,8 +189,8 @@ TEST STARTED: test4
 
 TEST FAILED WITH ERROR: Test4
 ---------------------------------------------------------------------&amp#27;[0m
-11891 [main] ERROR net.thucydides.core.steps.ConsoleLoggingListener - / by zero
-13481 [main] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+11755 [main] ERROR net.thucydides.core.steps.ConsoleLoggingListener - / by zero
+13024 [main] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
  _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
 |_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
   | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
@@ -200,12 +200,12 @@ TEST FAILED WITH ERROR: Test4
 
 TEST STARTED: test5
 -------------------------------------------------------------------
-13481 [main] INFO net.serenitybdd.core.Serenity - TEST NUMBER: 5
+13024 [main] INFO net.serenitybdd.core.Serenity - TEST NUMBER: 5
 ]]></system-err>
   </testcase>
   <testcase name="test6" classname="autoPackage.SerenityTest" time="0">
     <skipped/>
-    <system-err><![CDATA[13497 [main] ERROR net.thucydides.core.steps.ConsoleLoggingListener - &amp#27;[95m
+    <system-err><![CDATA[13037 [main] ERROR net.thucydides.core.steps.ConsoleLoggingListener - &amp#27;[95m
          __  _____ _____ ____ _____ 
  _      / / |_   _| ____/ ___|_   _|
 (_)____| |    | | |  _| \___ \ | |  
@@ -220,8 +220,8 @@ TEST STARTED: test5
 
 TEST COMPROMISED: Test5
 -------------------------------------&amp#27;[0m
-13498 [main] ERROR net.thucydides.core.steps.ConsoleLoggingListener - E:\dummy.txt (The system cannot find the path specified)
-15110 [main] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+13038 [main] ERROR net.thucydides.core.steps.ConsoleLoggingListener - E:\dummy.txt (The system cannot find the path specified)
+14774 [main] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
  _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
 |_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
   | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
@@ -231,10 +231,10 @@ TEST COMPROMISED: Test5
 
 TEST STARTED: test6
 -------------------------------------------------------------------
-15110 [main] INFO net.serenitybdd.core.Serenity - TEST NUMBER: 6
-15111 [main] INFO net.thucydides.core.steps.ConsoleLoggingListener - TEST MANUAL
-15111 [main] INFO net.thucydides.core.steps.ConsoleLoggingListener - &amp#27;[96mTEST PENDING&amp#27;[0m
-15112 [main] INFO net.thucydides.core.steps.ConsoleLoggingListener - &amp#27;[96m
+14774 [main] INFO net.serenitybdd.core.Serenity - TEST NUMBER: 6
+14775 [main] INFO net.thucydides.core.steps.ConsoleLoggingListener - TEST MANUAL
+14775 [main] INFO net.thucydides.core.steps.ConsoleLoggingListener - &amp#27;[96mTEST PENDING&amp#27;[0m
+14777 [main] INFO net.thucydides.core.steps.ConsoleLoggingListener - &amp#27;[96m
           __  _____ _____ ____ _____   ____  _____ _   _ ____ ___ _   _  ____ 
  _       / / |_   _| ____/ ___|_   _| |  _ \| ____| \ | |  _ \_ _| \ | |/ ___|
 (_)____ / /    | | |  _| \___ \ | |   | |_) |  _| |  \| | | | | ||  \| | |  _ 
@@ -246,5 +246,5 @@ TEST PENDING: Test6
 ---------------------------------------------------------------------------------&amp#27;[0m
 ]]></system-err>
   </testcase>
-  <testcase name="myFirstRestAssuredTest1" classname="autoPackage.SerenityTest" time="10.859"/>
+  <testcase name="myFirstRestAssuredTest1" classname="autoPackage.SerenityTest" time="10.481"/>
 </testsuite>

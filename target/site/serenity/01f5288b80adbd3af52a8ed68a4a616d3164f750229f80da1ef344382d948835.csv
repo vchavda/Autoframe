@@ -1,3 +1,3 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Data driven test","Display students","SUCCESS","2019-01-02T15:10:25.62Z[Europe/London]","0.0","19.61"
-"Serenity test","this test will make an API call","SUCCESS","2019-01-02T15:10:29.543Z[Europe/London]","0.0","10.76"
+"Data driven test","Display students","SUCCESS","2019-01-04T14:31:53.776Z[Europe/London]","0.0","23.01"
+"Serenity test","this test will make an API call","SUCCESS","2019-01-04T14:31:57.203Z[Europe/London]","0.0","10.49"

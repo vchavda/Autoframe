@@ -1,16 +1,16 @@
 -------------------------------------------------------------------------------
 Test set: autoPackage.SerenityTest
 -------------------------------------------------------------------------------
-Tests run: 7, Failures: 1, Errors: 2, Skipped: 3, Time elapsed: 33.849 s <<< FAILURE! - in autoPackage.SerenityTest
-test1(autoPackage.SerenityTest)  Time elapsed: 3.228 s  <<< FAILURE!
+Tests run: 7, Failures: 1, Errors: 2, Skipped: 3, Time elapsed: 30.393 s <<< FAILURE! - in autoPackage.SerenityTest
+test1(autoPackage.SerenityTest)  Time elapsed: 3.179 s  <<< FAILURE!
 java.lang.AssertionError
 	at autoPackage.SerenityTest.test1(SerenityTest.java:37)
 
-test4(autoPackage.SerenityTest)  Time elapsed: 1.728 s  <<< ERROR!
+test4(autoPackage.SerenityTest)  Time elapsed: 1.687 s  <<< ERROR!
 java.lang.ArithmeticException: / by zero
-	at autoPackage.SerenityTest.test4(SerenityTest.java:56)
+	at autoPackage.SerenityTest.test4(SerenityTest.java:57)
 
-test5(autoPackage.SerenityTest)  Time elapsed: 1.603 s  <<< ERROR!
+test5(autoPackage.SerenityTest)  Time elapsed: 1.252 s  <<< ERROR!
 java.io.FileNotFoundException: E:\dummy.txt (The system cannot find the path specified)
-	at autoPackage.SerenityTest.test5(SerenityTest.java:66)
+	at autoPackage.SerenityTest.test5(SerenityTest.java:67)
 
