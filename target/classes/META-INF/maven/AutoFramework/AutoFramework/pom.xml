@@ -97,7 +97,7 @@
 				</dependencies>
 				<executions>
 					<execution>
-						<!-- aggregate all the test in the serenity report -->
+						<!-- aggregate all the test in the report -->
 						<id>serenity-reports</id>
 						<phase>post-integration-test</phase>
 						<goals>
